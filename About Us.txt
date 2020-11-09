@@ -1,0 +1,10 @@
+						
+						|-----------------------|
+						|         About Us	|
+						|-----------------------|
+
+*For your information, we are currently the final year students from Tunkun Abdul Rahman University & College (TARUC) that pursing the Bachelor (Honours) Degree of Information Systems in Enterprise Information Systems. Recently, we have been assigned to an industrial project which is provided by Kian Joo Group as our final year project, and the project title is "Indenfication of Can Leakage". This is a data analytic project which required to analyse the actual business data that provided by the company in order to found out the reasons and causes for the can leakage occurance. The programming language that used to develop this project can be known as Python. In short, this data analytic project is actually develop by one team which is only conduct 2 students. Both of them are Yew Jing Wey (in-charge with Presricptive & Diagnostic Analytics) and Desmond Tan Yi Siang (in-charge with Descriptive & Predictive Analytics).
+
+
+Noted: This is a web application framework that created by using Python
+        
