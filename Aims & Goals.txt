@@ -1,9 +1,9 @@
   
 						
-									                        			|--------------------------------|
-												                        |          Aims & Goals          |
-												                        |--------------------------------|
-                                                
+									                      |--------------------------------|
+												                |          Aims & Goals          |
+												                |--------------------------------|
+                                                 
 Nowadays, in the field of data analysis is one of the most exciting and influential fields of technology of our time. 
  
 It's goal is to simplify things to the full extent of big data and come up with a specific goal and solution. 
