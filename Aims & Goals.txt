@@ -9,6 +9,6 @@ Nowadays, in the field of data analysis is one of the most exciting and influent
 It's goal is to simplify things to the full extent of big data and come up with a specific goal and solution. 
 
 Data analytics provides a conjecture and guesswork of events and will help to find answers that can be sufficiently disguised for a particular problem to come up with an optimal conclusion and a convincing solution. 
-
+ 
 These are some goals, but there's a lot you can go deeper into them and learn some basics. 
 What's good about it is that if you learn the basics of data analysis, machine learning and deep learning will be easy to learn just for you and increase certain things and attributes and become a kind of expert in the two fields. 
